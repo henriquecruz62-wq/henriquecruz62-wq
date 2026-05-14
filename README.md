@@ -1,4 +1,4 @@
-[R](https://github.com/user-attachments/files/27729974/README.1.md)<div align="center">
+[](https://github.com/user-attachments/files/27729974/README.1.md)<div align="center">
 
 # Olá, eu sou o Henrique! 👋
 
@@ -38,12 +38,10 @@
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **DevOps & Infra**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -61,16 +59,6 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=henriquecruz62-wq&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📫 Vamos nos conectar?
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-henriquecruz62--wq-181717?style=for-the-badge&logo=github)](https://github.com/henriquecruz62-wq)
 
 </div>
 
