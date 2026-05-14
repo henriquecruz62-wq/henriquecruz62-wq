@@ -1,16 +1,5 @@
 [](https://github.com/user-attachments/files/27729974/README.1.md)<div align="center">
 
-## 🐍 Minhas contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake.svg" />
-  </picture>
-</div>
-
-
 # Olá, eu sou o Henrique! 👋
 
 ### Desenvolvedor Fullstack Jr. apaixonado por construir soluções do front ao back
@@ -21,6 +10,16 @@
 </div>
 
 ---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/henriquecruz62-wq/henriquecruz62-wq/output/github-snake.svg" />
+  </picture>
+</div>
 
 ## 🙋‍♂️ Sobre mim
 
